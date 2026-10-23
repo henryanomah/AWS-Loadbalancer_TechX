@@ -1,4 +1,3 @@
-# AWS-Loadbalancer_TechX
 
 # Tech X Assignment: Load Balancing on AWS
 
